@@ -26,13 +26,10 @@ Regular customers collect vendors' contact information and ask whether food or a
 **Zero Visibility Before Effort:** A student or another person may make the trip before the stock is confirmed. If the item is unavailable, the time, transportation, and effort will have been wasted.
 **The Lack of Accountability and Standardization**
 Informal delivery arrangements and hostel borrowing have no clear way to resolve problems if an item arrives in the wrong condition, is cold, or is late.
-**Interview & Survey Findings**
-**Finding 1**
-Michael is a 300-level IT student who must balance student responsibilities with academic work. He has little time for shopping and socializing.
-**Finding 2**
-Professor Oni is a lecturer in the Medicine department and lives alone at Babcock during the weekdays, returning home to Lagos on weekends. With his surgeries and classes, he barely gets a chance to go out and get a bite to eat. During my conversation with him, he said, "I wish the school had a central delivery service to make it easier to get a bite."
-**Finding 3**
-Martins is a 400-level medical laboratory science student and athlete. He is very busy and barely has time to find healthy food options.
+**User Stories and Functions**
+1. **Browse and Order Items:** As a busy 300-level IT student, Michael wants to browse available items and order them for delivery, so that he can get what he needs without spending time shopping.
+2. **Order Meals for Delivery:** As a lecturer with a demanding schedule, Professor Oni wants to order meals from campus vendors and have them delivered to him, so that he can get a bite to eat without leaving his work or home.
+3. **Discover Healthy Food:** As a busy 400-level medical laboratory science student and athlete, Martins wants to find and order healthy food options, so that he can eat well despite having little time to shop.
 
 **3. Proposed Solution & MVP Scope**
 **High-Level Solution**
